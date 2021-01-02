@@ -1,4 +1,6 @@
-# searchvue
+# Simple Search Engine
+
+### ContextualWebSearch is used for Backend API 
 
 ## Project setup
 ```
